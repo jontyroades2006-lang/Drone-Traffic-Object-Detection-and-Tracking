@@ -84,12 +84,6 @@ results = model.track(
 
 ---
 
-## 🎥 Demo Output
-
-(Add your tracking video here)
-
----
-
 ## 👨‍💻 Author
 
 **Gaurav Sharma**
